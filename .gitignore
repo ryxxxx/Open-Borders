@@ -1,5 +1,7 @@
 .vs/
 Debug/
+OpenBorders/Debug/
+OpenBorders/Release/
 *.iobj
 *.ipdb
 *.pdb
